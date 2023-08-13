@@ -9,6 +9,7 @@ We used the Scikit-learn library in Python to implement our SVM model and optimi
 
 The final result of our project is a table that shows the accuracy of each of the 10 samples, along with the best SVM parameters that yielded the highest accuracy. This table can be used as a reference for future classification problems that require SVM parameter optimization.
 
+In an extension to the previous project, we've now added the feature of multithreading, that redices the time complexity of the entire operation by almost 50% in the best case.
 
 ##    Dataset   
 ###   Dry Beans      
